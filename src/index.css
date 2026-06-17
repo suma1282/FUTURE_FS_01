@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-slate-950 text-white;
+  font-family: "Inter", sans-serif;
+}
+
+/* Section spacing */
+section {
+  @apply scroll-mt-24;
+}
+
+/* Glass effect utility */
+.glass {
+  background: rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 1.5rem;
+}
+
+/* Buttons */
+.btn {
+  @apply px-6 py-3 rounded-xl font-medium transition duration-300;
+}
+
+.btn-primary {
+  @apply bg-gradient-to-r from-cyan-500 to-purple-600 hover:scale-105;
+}
+
+.btn-outline {
+  @apply border border-cyan-400 hover:bg-cyan-400 hover:text-black;
+}
+
+/* Hover glow */
+.hover-glow:hover {
+  box-shadow: 0 0 25px rgba(34, 211, 238, 0.4);
+}
