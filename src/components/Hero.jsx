@@ -15,8 +15,8 @@ const Hero = () => {
         transition={{ duration: 1 }}
         className="text-center relative z-10 max-w-4xl"
       >
-        <h2 className="text-5xl md:text-7xl font-bold mb-5">
-          Bombothu Suma
+        <h2 className="text-5xl md:text-5xl font-bold mb-5">
+        👋 Hi I'm Bombothu Suma
         </h2>
 
         <TypeAnimation
@@ -25,8 +25,8 @@ const Hero = () => {
             2000,
             "Java Developer",
             2000,
-            "Problem Solver",
-            2000,
+            // "Problem Solver",
+            // 2000,
           ]}
           speed={50}
           repeat={Infinity}
@@ -34,10 +34,9 @@ const Hero = () => {
         />
 
         <p className="mt-8 text-gray-300 text-lg leading-relaxed">
-          Computer Science Engineering Student passionate about
-          building scalable web applications, mastering Java,
-          solving challenging problems, and creating impactful
-          software solutions.
+          Building scalable web solutions while Turning ideas 
+          into interactive web experiences with clean code, 
+          creativity, and continuous learning.
         </p>
 
         <div className="mt-10 flex flex-wrap gap-5 justify-center">

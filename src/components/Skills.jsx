@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 const skillsData = [
   {
     title: "Programming",
-    skills: ["Java", "JavaScript", "Python Basics"],
+    skills: ["Java", "JavaScript", "Python"],
   },
   {
     title: "Frontend",
@@ -12,7 +12,7 @@ const skillsData = [
       "CSS3",
       "React.js",
       "Tailwind CSS",
-      "Responsive Design",
+      // "Responsive Design",
     ],
   },
   {

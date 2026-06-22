@@ -2,39 +2,39 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
-    title: "Personal Portfolio Website",
+    title: "💼 Client Management",
     tech: "React.js • CSS • JavaScript",
     description:
-      "A responsive developer portfolio website showcasing skills, projects, and professional achievements.",
+      "A responsive web application designed to manage client information efficiently with an organized and user-friendly interface.",
     features: [
-      "Responsive UI",
-      "Smooth Animations",
-      "Project Showcase",
-      "Contact Section",
+       "Add, view, update, and delete client records",
+       "Interactive dashboard for client details",
+       "Search & filter functionality for quick access",
+       "Clean and responsive design across devices",
     ],
   },
   {
-    title: "Recipe Website",
+    title: "🍽️ Recipe Website",
     tech: "HTML • CSS • JavaScript",
     description:
-      "A recipe web application featuring an attractive interface and organized recipe display.",
+      "A visually appealing recipe discovery website where users can explore different recipes with an easy browsing experience.",
     features: [
-      "Modern Design",
-      "Responsive Layout",
-      "Recipe Categories",
-      "Interactive UI",
+      "Recipe cards with ingredients and details",
+      "Organized recipe categories",
+      "Search-friendly layout for quick navigation",
+      "Mobile-responsive interface",
     ],
   },
   {
-    title: "Product Catalog Website",
+    title: "🛒 E-Commerce Website",
     tech: "HTML • CSS • JavaScript",
     description:
-      "A responsive product listing website with modern user interface components.",
+      "A modern online shopping platform that provides users with a smooth product browsing and purchasing experience.",
     features: [
-      "Product Cards",
-      "Responsive Design",
-      "Modern Layout",
-      "Interactive Components",
+      "Product Cards and listing",
+      "Responsive & user friendly Design",
+      "Modern Layout and shopping cart",
+      "Category-based products",
     ],
   },
   // {

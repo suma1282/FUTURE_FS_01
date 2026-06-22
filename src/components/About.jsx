@@ -16,34 +16,36 @@ const About = () => {
 
         <div className="bg-white/5 backdrop-blur-lg border border-white/10 rounded-3xl p-10 shadow-xl">
           <p className="text-lg text-gray-300 leading-relaxed">
-            I am a passionate Computer Science Engineering student
-            pursuing B.Tech (2027) with a strong interest in software
-            development and modern web technologies.
+            I am a B.Tech Computer Science student and an aspiring 
+            Full Stack Developer passionate about building responsive, 
+            user-friendly, and efficient web applications.
           </p>
 
           <p className="mt-6 text-lg text-gray-300 leading-relaxed">
-            My journey started with programming fundamentals and
-            gradually expanded into Full Stack Development where I
-            enjoy designing responsive user interfaces and building
-            scalable backend systems.
-          </p>
+            🚀 Focus: Full Stack Web Development  
+            🛠️ Tech Stack: Java | JavaScript | React | HTML5 | CSS3 | MySQL  
+            </p>
 
           <p className="mt-6 text-lg text-gray-300 leading-relaxed">
-            I actively strengthen my expertise in Java, Data Structures
-            & Algorithms, Object-Oriented Programming, Spring Boot,
-            Databases, and Web Development.
+            I enjoy transforming ideas into practical projects  
+            I love learning new technologies, solving problems, 
+            and building projects that improve my development skills.
           </p>
 
-          <p className="mt-6 text-lg text-gray-300 leading-relaxed">
+          {/* <p className="mt-6 text-lg text-gray-300 leading-relaxed">
+            Let's connect! Feel free to explore my GitHub 
+            or reach out through email.
             I believe in continuous learning and consistently work on
             real-world projects that improve my problem-solving,
             software design, and development skills.
-          </p>
+          </p> */}
 
           <p className="mt-6 text-lg text-gray-300 leading-relaxed">
             My long-term goal is to become a highly skilled Software
             Development Engineer and contribute to innovative products
             that positively impact users worldwide.
+            Let's connect! Feel free to explore my GitHub 
+            or reach out through email.
           </p>
         </div>
       </motion.div>
