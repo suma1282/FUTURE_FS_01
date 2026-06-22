@@ -43,15 +43,15 @@ const Contact = () => {
             <h3 className="text-2xl font-bold mb-6">Get in Touch</h3>
 
             <p className="text-gray-300 mb-4">
-              📧 Email: your-email@gmail.com
+              📧 Email: sumasrinaidubombothu@gmail.com
             </p>
 
             <p className="text-gray-300 mb-4">
-              💼 LinkedIn: linkedin.com/in/yourprofile
+              💼 LinkedIn:www.linkedin.com/in/suma-bombothu-088621342
             </p>
 
             <p className="text-gray-300">
-              💻 GitHub: github.com/yourusername
+              💻 GitHub: https://github.com/suma1282
             </p>
           </motion.div>
 

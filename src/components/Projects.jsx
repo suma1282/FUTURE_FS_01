@@ -37,30 +37,30 @@ const projects = [
       "Interactive Components",
     ],
   },
-  {
-    title: "Full Stack CRM Application",
-    tech: "Coming Soon",
-    description:
-      "Future project focused on customer relationship management.",
-    features: [
-      "User Management",
-      "Dashboard",
-      "Authentication",
-      "Database Integration",
-    ],
-  },
-  {
-    title: "Spring Boot Projects",
-    tech: "Coming Soon",
-    description:
-      "Collection of backend applications built using Spring Boot.",
-    features: [
-      "REST APIs",
-      "CRUD Operations",
-      "Database Connectivity",
-      "Security",
-    ],
-  },
+  // {
+  //   title: "Full Stack CRM Application",
+  //   tech: "Coming Soon",
+  //   description:
+  //     "Future project focused on customer relationship management.",
+  //   features: [
+  //     "User Management",
+  //     "Dashboard",
+  //     "Authentication",
+  //     "Database Integration",
+  //   ],
+  // },
+  // {
+  //   title: "Spring Boot Projects",
+  //   tech: "Coming Soon",
+  //   description:
+  //     "Collection of backend applications built using Spring Boot.",
+  //   features: [
+  //     "REST APIs",
+  //     "CRUD Operations",
+  //     "Database Connectivity",
+  //     "Security",
+  //   ],
+  // },
 ];
 
 const Projects = () => {

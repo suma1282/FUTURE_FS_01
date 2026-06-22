@@ -28,24 +28,24 @@ const skillsData = [
     title: "Database",
     skills: ["MySQL", "MongoDB"],
   },
-  {
-    title: "Tools",
-    skills: [
-      "Git",
-      "GitHub",
-      "VS Code",
-      "IntelliJ IDEA",
-    ],
-  },
-  {
-    title: "Computer Science",
-    skills: [
-      "Data Structures & Algorithms",
-      "Object-Oriented Programming",
-      "DBMS",
-      "Operating Systems",
-    ],
-  },
+  // {
+  //   title: "Tools",
+  //   skills: [
+  //     "Git",
+  //     "GitHub",
+  //     "VS Code",
+  //     "IntelliJ IDEA",
+  //   ],
+  // },
+  // {
+  //   title: "Computer Science",
+  //   skills: [
+  //     "Data Structures & Algorithms",
+  //     "Object-Oriented Programming",
+  //     "DBMS",
+  //     "Operating Systems",
+  //   ],
+  // },
 ];
 
 const Skills = () => {
